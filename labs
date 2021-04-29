@@ -21,7 +21,7 @@ Lab 3: Create a SQL on VM (IaaS)
    
    Step 1: Naigate to Azure SQL
    
-   Step 2: Choose Free SQL Server License: SQL 2019 Developer on Windows Server 2019
+   Step 2: Choose and Create Free SQL Server License: SQL 2019 Developer on Windows Server 2019
    
    Step 3: Use the public ip address to remotely connect to the VM. (Use remote desktop connection)
 
